@@ -128,8 +128,7 @@ Follow GitHub Flow (feature branches + PRs + reviews). Use commit conventions (f
 |------|----------|
 | Widget Tree | UI blueprint (immutable) |
 | Element Tree | Widget instances + state (mutable) |
-| Render Tree | Layout & painting |
-Only affected subtrees rebuild and repaint for efficiency.
+| Render Tree | Layout & painting |Only affected subtrees rebuild and repaint for efficiency.|
 
 ### **29. What triggers a new frame in Flutter?**
 UI changes (setState, notifyListeners), animations, or system-driven redraws.
