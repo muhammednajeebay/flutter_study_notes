@@ -1,4 +1,4 @@
-# Flutter Advanced Interview Questions and Answers (Muhammed Najeeb AY)
+# Flutter Advanced Interview Questions and Answers
 
 A complete technical preparation document covering Flutter architecture, performance, rendering, native integration, and clean code principles.
 
