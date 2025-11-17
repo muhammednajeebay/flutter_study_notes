@@ -1,8 +1,8 @@
 # Flutter Interview Prep 
 
-# 150 Flutter Interview Questions (Sentence-Style Answers)
+# Flutter Interview Questions (Sentence-Style Answers)
 
-Below is a collection of 150 carefully written interview questions with sentence-style answers covering Flutter, Dart, BLoC, Clean Architecture, APIs, DSA, OOP, and CI/CD.
+Below is a collection of carefully written interview questions with sentence-style answers covering Flutter, Dart, BLoC, Clean Architecture, APIs, DSA, OOP, and CI/CD.
 
 ---
 
