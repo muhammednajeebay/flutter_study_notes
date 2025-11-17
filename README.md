@@ -1,4 +1,3 @@
-```markdown
 # Flutter Interview Preparation – Complete Master Guide (2025)
 
 A comprehensive, well-organized, and ready-to-use Markdown file for your Flutter interviews.  
